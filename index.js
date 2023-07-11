@@ -13,3 +13,5 @@ let mod = num3%num4;
 
 let set = [ 3, 12, 5, 20, 7, 14 ];
 let max = Math.max.apply(null, set);
+Math.ceiling(math.random()*10) ;
+
